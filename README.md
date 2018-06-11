@@ -1,4 +1,4 @@
-# SQL for Data Analysis UDEMY Solutions
+# SQL for Data Analysis Udacity Solutions
 ##### Link: https://classroom.udacity.com/courses/ud198
 1) Lesson1: Basic SQL
 2) Lesson2: SQL Joins
